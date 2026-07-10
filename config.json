@@ -1,0 +1,141 @@
+{
+  "site_title": "SHAPPNO PREMIUM VPS",
+  "site_header": "SHAPPNO VPS",
+  "icon_url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%2300ff00'%3E%3Cpath d='M20 9V7c0-1.1-.9-2-2-2h-4c0-1.1-.9-2-2-2H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-2h-2v2H6V5h4v2h8v2h2z'/%3E%3C/svg%3E",
+  "theme": "matrix",
+  "font_family": "default",
+  "admin_password": "e425b2cf21ea25addfb17a0e16ccec980e1a9f1b7c03e5915f1c764392bbfdbe",
+  "colors": {
+    "matrix": {
+      "name": "Matrix Green",
+      "primary": "#00ff00",
+      "secondary": "#00cc00",
+      "accent": "#00ff80",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#00ff00",
+      "danger": "#ff0000",
+      "header_text": "#00ff00",
+      "stats_text": "#00ff00"
+    },
+    "night": {
+      "name": "Night Blue",
+      "primary": "#4d88ff",
+      "secondary": "#3366cc",
+      "accent": "#aa88ff",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#4d88ff",
+      "danger": "#ff4d4d",
+      "header_text": "#4d88ff",
+      "stats_text": "#4d88ff"
+    },
+    "ocean": {
+      "name": "Ocean Blue",
+      "primary": "#3399ff",
+      "secondary": "#0066cc",
+      "accent": "#ff99cc",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#3399ff",
+      "danger": "#ff4d4d",
+      "header_text": "#3399ff",
+      "stats_text": "#3399ff"
+    },
+    "sunset": {
+      "name": "Sunset Orange",
+      "primary": "#ff9933",
+      "secondary": "#cc6600",
+      "accent": "#ff66b3",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#ff9933",
+      "danger": "#ff4d4d",
+      "header_text": "#ff9933",
+      "stats_text": "#ff9933"
+    },
+    "blood": {
+      "name": "Blood Red",
+      "primary": "#ff4d4d",
+      "secondary": "#cc0000",
+      "accent": "#ff80bf",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#ff4d4d",
+      "danger": "#ff0000",
+      "header_text": "#ff4d4d",
+      "stats_text": "#ff4d4d"
+    },
+    "neon": {
+      "name": "Neon Purple",
+      "primary": "#ff66ff",
+      "secondary": "#cc33cc",
+      "accent": "#ffff80",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#ff66ff",
+      "danger": "#ff4d4d",
+      "header_text": "#ff66ff",
+      "stats_text": "#ff66ff"
+    },
+    "cyber": {
+      "name": "Cyber Cyan",
+      "primary": "#33ffff",
+      "secondary": "#00cccc",
+      "accent": "#ff80ff",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#33ffff",
+      "danger": "#ff4d4d",
+      "header_text": "#33ffff",
+      "stats_text": "#33ffff"
+    },
+    "vapor": {
+      "name": "Vapor Pink",
+      "primary": "#ff99ff",
+      "secondary": "#cc66cc",
+      "accent": "#80ffff",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#ff99ff",
+      "danger": "#ff4d4d",
+      "header_text": "#ff99ff",
+      "stats_text": "#ff99ff"
+    },
+    "gold": {
+      "name": "Royal Gold",
+      "primary": "#ffcc66",
+      "secondary": "#cc9933",
+      "accent": "#ffb380",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#ffcc66",
+      "danger": "#ff4d4d",
+      "header_text": "#ffcc66",
+      "stats_text": "#ffcc66"
+    },
+    "silver": {
+      "name": "Silver Grey",
+      "primary": "#b3b3b3",
+      "secondary": "#808080",
+      "accent": "#cccccc",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#b3b3b3",
+      "danger": "#ff4d4d",
+      "header_text": "#b3b3b3",
+      "stats_text": "#b3b3b3"
+    }
+  },
+  "fonts": {
+    "default": "'Segoe UI', sans-serif",
+    "hacker": "'Courier New', monospace",
+    "terminal": "'Consolas', monospace",
+    "code": "'Fira Code', monospace",
+    "retro": "'VT323', monospace"
+  },
+  "passwords": {
+    "secret": "e425b2cf21ea25addfb17a0e16ccec980e1a9f1b7c03e5915f1c764392bbfdbe",
+    "user": "e425b2cf21ea25addfb17a0e16ccec980e1a9f1b7c03e5915f1c764392bbfdbe"
+  }
+}
